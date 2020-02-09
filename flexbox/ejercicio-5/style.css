@@ -1,0 +1,28 @@
+.container {
+  display: block;
+  box-sizing: content-box;
+  padding: 50px;
+}
+
+.img {
+  display: flex;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.box {
+  display: flex;
+  
+}
+
+.middle {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,28 @@
+.main {
+  width: 70%;
+  height: 100vh;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  height: 10vh;
+  width: 100vh;
+}
+
+.row {
+  width: 100%
+}
+
+.flag {
+  width: 150px;
+  height: 50px;
+  background-color: hotpink;
+  margin: auto;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
